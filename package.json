@@ -18,7 +18,7 @@
     "fca"
   ],
   "bugs": {
-    "url": "https://github.com/ProCoderMew/fca-unofficial/issues"
+    "url": "https://github.com/Tinkprocodes/fca-unofficial/issues"
   },
   "author": "Avery, David, Maude, Benjamin, UIRI, MiraiTeam, ProCoderMew",
   "license": "MIT",
@@ -72,7 +72,7 @@
       ]
     }
   },
-  "homepage": "https://github.com/ProCoderMew/fca-unofficial#readme",
+  "homepage": "https://github.com/Tinkprocodes/fca-unofficial#readme",
   "main": "index.js",
   "directories": {
     "test": "test"
